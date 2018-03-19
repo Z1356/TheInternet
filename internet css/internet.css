@@ -1,0 +1,171 @@
+* {
+    margin: 0px;
+    /*outline: 1px solid red;*/
+    font-family: sans-serif;
+}
+#wrapper {
+    width: 970px;
+    margin: 0px auto;
+    ?8border: 1px solid red;*/
+    background-color: white;
+}
+#wrapper #world {
+    position:relative;
+    top: 18px;
+    width: 100px;
+}
+#wrapper h1 {
+    position:relative;
+    top: 12px;
+    vertical-align: top;
+    margin-top: 30px;
+    font-size: 50px;
+    display: inline-block;
+    font-weight: 500;
+}
+#wrapper h2 {
+    font-size: 35px;
+    font-weight: 500;
+}
+#wrapper #blue {
+    color: steelblue;
+}
+#wrapper #red {
+    color: red;
+}
+#wrapper h2 {
+    background-color: steelblue;
+    color: white;
+    padding: 15px 25px;
+}
+#sidebar {
+    display: inline-block;
+    margin-top: 15px;
+    width: 225px;
+}
+#sidebar #p1 {
+    font-size: 18px;
+}
+#sidebar p {
+    padding: 8px 5px;
+}
+#sidebar button {
+    font-size: 14px;
+    border-radius: 5px;
+    width: 180px;
+    height: 35px;
+    margin: 2px 23px;
+    color: white;
+}
+#sidebar #b1 {
+    margin-top: 10px;
+    background-color: steelblue;
+}
+#sidebar #b2 {
+    background-color: sandybrown;
+}
+#sidebar hr {
+    margin: 20px 0px;
+}
+#ad {
+    padding-top: 20px;
+    background-image: url("images/ad_background.png");
+}
+#adwords {
+    text-align: center;
+    color: white;
+    font-size: 24px;
+}
+#ad #adimg {
+    margin-left: 55px;
+    width: 110px;
+}
+#ad #b3 {
+    margin-top: 15px;
+    margin-bottom: 30px;
+    background: skyblue;
+}
+#wrapper #main {
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 25px;
+    width: 700px;
+}
+#house {
+    vertical-align: top;
+    display: inline-block;
+    width: 30px;
+}
+#p2 {
+    margin-top: 5px;
+    margin-left: 5px;
+    vertical-align: top;
+    display: inline-block;
+    text-decoration: none;
+    color: steelblue;
+    font-size: 20px;
+}
+#main #img2 {
+    margin-bottom: 5px;
+    margin-left: 385px;
+    width: 50px;
+}
+#main div {
+    text-align: right;
+    align: right;
+    display: inline-block;
+    width: 175px;
+}
+#main div p {
+    font-size: 12px;
+    display: inline-block;
+}
+#main div h3 {
+    font-size: 28px;
+    display: inline-block;
+}
+#main hr {
+    margin: 5px 0px;
+}
+#diagram {
+    margin-left: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+}
+li {
+    margin: 10px 0px;
+}
+#quickfix {
+    margin: 10px 0px;
+}
+#moreinfo {
+    border: royalblue solid 5px;
+    margin-left: 255px;
+    width: 690px;
+    height: 150px;
+}
+#infoimg {
+    margin: 5px;
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+}
+#moreinfo #testing {
+    position: relative;
+    bottom: 110px;
+    left: 164px;
+    margin: 5px;
+    vertical-align: top;
+    display: inline-block;
+    font-size: 15px;
+    width: 500px;
+}
+#moreinfo h3 {
+    margin-top: 5px;
+    margin: 5px;
+    font-size: 20px;
+    display: inline-block;
+    width: 400px;
+}
